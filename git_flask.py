@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def api_root():
-    return '!!...Jai Baba Swami to All...!!'
+    return '!!...Jai Baba Swami to All...!!\n How are you all'
 
 if __name__ == '__main__':
  app.run(debug=True)
