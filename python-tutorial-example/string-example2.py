@@ -1,0 +1,6 @@
+#message = input("What do you want me to say? ")
+#message.upper()
+message = input("What do you want me to say? ").upper()
+print(message, "!!!")
+print(message, "!!!")
+print(message, "!!!")
